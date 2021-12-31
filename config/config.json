@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd9a40aaaD004ab254B41c8F1aBB0A562D4fa43A7",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd9a40aaaD004ab254B41c8F1aBB0A562D4fa43A7",
+  "NETWORK": {
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SBC Mint Pass",
+  "SYMBOL": "Whitelisted SBC Mint Pass",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 10000000000000000,  
+  "DISPLAY_COST": "0,01 (=0.025$)",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sbc-mint-pass",
+  "SHOW_BACKGROUND": true
+}
