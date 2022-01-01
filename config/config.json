@@ -7,10 +7,10 @@
     "ID": 137
   },
   "NFT_NAME": "SBC Mint Pass",
-  "SYMBOL": "Whitelisted SBC Mint Pass",
+  "SYMBOL": "SBC Mint Pass",
   "MAX_SUPPLY": 500,
-  "WEI_COST": 10000000000000000,  
-  "DISPLAY_COST": "0,01 (=0.025$)",
+  "WEI_COST": 40000000000000000000,  
+  "DISPLAY_COST": "40",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/sbc-mint-pass",
